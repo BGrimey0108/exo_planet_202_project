@@ -1,0 +1,58 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Apr 18 13:12:01 2023
+#
+# User preference: *
+#
+# CONSTRAINT:  where (pl_name_display like '%trappist%'
+# CONSTRAINT:  and pl_refname like '%Grimm%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN soltype:        Solution Type
+# COLUMN pl_controv_flag: Controversial Flag
+# COLUMN pl_refname:     Planetary Parameter Reference
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
+# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
+# COLUMN pl_orbperlim:   Orbital Period Limit Flag
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au])
+# COLUMN pl_orbsmaxerr1: Orbit Semi-Major Axis Upper Unc. [au]
+# COLUMN pl_orbsmaxerr2: Orbit Semi-Major Axis Lower Unc. [au]
+# COLUMN pl_orbsmaxlim:  Orbit Semi-Major Axis Limit Flag
+# COLUMN pl_masse:       Planet Mass [Earth Mass]
+# COLUMN pl_masseerr1:   Planet Mass [Earth Mass] Upper Unc.
+# COLUMN pl_masseerr2:   Planet Mass [Earth Mass] Lower Unc.
+# COLUMN pl_masselim:    Planet Mass [Earth Mass] Limit Flag
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbeccenerr1: Eccentricity Upper Unc.
+# COLUMN pl_orbeccenerr2: Eccentricity Lower Unc.
+# COLUMN pl_orbeccenlim: Eccentricity Limit Flag
+# COLUMN pl_orbincl:     Inclination [deg]
+# COLUMN pl_orbinclerr1: Inclination Upper Unc. [deg]
+# COLUMN pl_orbinclerr2: Inclination Lower Unc. [deg]
+# COLUMN pl_orbincllim:  Inclination Limit Flag
+# COLUMN ttv_flag:       Data show Transit Timing Variations
+# COLUMN pl_orbtper:     Epoch of Periastron [days]
+# COLUMN pl_orbtpererr1: Epoch of Periastron Upper Unc. [days]
+# COLUMN pl_orbtpererr2: Epoch of Periastron Lower Unc. [days]
+# COLUMN pl_orbtperlim:  Epoch of Periastron Limit Flag
+# COLUMN pl_orblper:     Argument of Periastron [deg]
+# COLUMN pl_orblpererr1: Argument of Periastron Upper Unc. [deg]
+# COLUMN pl_orblpererr2: Argument of Periastron Lower Unc. [deg]
+# COLUMN pl_orblperlim:  Argument of Periastron Limit Flag
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_masserr1:    Stellar Mass Upper Unc. [Solar mass]
+# COLUMN st_masserr2:    Stellar Mass Lower Unc. [Solar mass]
+# COLUMN st_masslim:     Stellar Mass Limit Flag
+# COLUMN rowupdate:      Date of Last Update
+# COLUMN pl_pubdate:     Planetary Parameter Reference Publication Date
+# COLUMN releasedate:    Release Date
+#
+pl_name,hostname,soltype,pl_controv_flag,pl_refname,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbsmax,pl_orbsmaxerr1,pl_orbsmaxerr2,pl_orbsmaxlim,pl_masse,pl_masseerr1,pl_masseerr2,pl_masselim,pl_orbeccen,pl_orbeccenerr1,pl_orbeccenerr2,pl_orbeccenlim,pl_orbincl,pl_orbinclerr1,pl_orbinclerr2,pl_orbincllim,ttv_flag,pl_orbtper,pl_orbtpererr1,pl_orbtpererr2,pl_orbtperlim,pl_orblper,pl_orblpererr1,pl_orblpererr2,pl_orblperlim,st_mass,st_masserr1,st_masserr2,st_masslim,rowupdate,pl_pubdate,releasedate
+TRAPPIST-1 b,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.011548,0.000000,0.000000,0,1.01700,0.15400,-0.14300,0,0.006220,0.003040,-0.003040,0,,,,,1,,,,,336.8600,34.2400,-34.2400,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 c,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.015815,0.000000,0.000000,0,1.15600,0.14200,-0.13100,0,0.006540,0.001880,-0.001880,0,,,,,1,,,,,282.4500,17.1000,-17.1000,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 d,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.022280,0.000000,0.000000,0,0.29700,0.03900,-0.03500,0,0.008370,0.000930,-0.000930,0,,,,,1,,,,,-8.7300,6.1700,-6.1700,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 e,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.029283,0.000000,0.000000,0,0.77200,0.07900,-0.07500,0,0.005100,0.000580,-0.000580,0,,,,,1,,,,,108.3700,8.4700,-8.4700,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 f,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.038534,0.000000,0.000000,0,0.93400,0.08000,-0.07800,0,0.010070,0.000680,-0.000680,0,,,,,1,,,,,368.8100,3.1100,-3.1100,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 g,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.046877,0.000000,0.000000,0,1.14800,0.09800,-0.09500,0,0.002080,0.000580,-0.000580,0,,,,,1,,,,,191.3400,13.8300,-13.8300,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
+TRAPPIST-1 h,TRAPPIST-1,Published Confirmed,0,<a refstr=GRIMM_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...613A..68G/abstract target=ref>Grimm et al. 2018</a>,,,,,0.061935,0.000001,-0.000001,0,0.33100,0.05600,-0.04900,0,0.005670,0.001210,-0.001210,0,,,,,1,,,,,338.9200,9.6600,-9.6600,0,0.09,0.01,-0.01,0,2020-12-10,2018-05,2020-12-17
