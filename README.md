@@ -1,2 +1,18 @@
-# exo_planet_202_project
-repo for our 202 project about exoplanets and their stars interacting
+# Test
+## Description
+
+## Instructions
+
+## Contributions
+-Cameron See
+--This
+-Alec Deen
+--x
+-Brandon Grimes
+--x
+-Owen James
+--x
+-Krishen Patel
+--x
+-Tyler Matson
+==x
