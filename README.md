@@ -30,4 +30,4 @@ Our simulation was created with the intent to model exoplanets change in orbit w
 - Krishen Patel
     - Data Analysis, Presentation Slides Creation/Editing, Code Testing
 - Tyler Matson
-    - Data Analysis, Presentation Slides Creation/Editing, Code Testing
+    - Data Analysis, Presentation Slides Creation/Editing, Code and Simulation Testing
